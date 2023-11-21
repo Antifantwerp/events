@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/7028303707203821/ for more info
+DTSTART:20231126T020000Z
+SUMMARY:STOP violences faites aux femmes! STOP geweld tegen vrouwen!
+UID:https-www-facebook-com-events-70283037072038212023-11-26t03-00-00-01-00
+URL:https://www.facebook.com/events/7028303707203821/
+END:VEVENT
+END:VCALENDAR

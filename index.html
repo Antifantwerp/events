@@ -1,0 +1,152 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- https://picocss.com/ -->
+    <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+
+    <style>
+
+body {
+    width: 80%;
+    margin: auto;
+}
+        </style>
+
+    <title>Antifantwerp Events</title>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/add-to-calendar-button@1/assets/css/atcb.min.css">
+</head>
+<body>
+<main>
+    <h1>Antifantwerp Events</h1>
+    <section>
+        <h2>Upcoming Events</h2>
+
+        <nav>
+            <ul id="sources">
+                <li>Filter:</li>
+                <li><a href="#" id="campagne-rosa-nl">Campagne ROSA - NL</a></li>
+            </ul>
+        </nav>
+
+        <div id="events" class="grid">
+            <article class="campagne-rosa-nl">
+
+                <img src="None"/>
+                
+                <h3>STOP violences faites aux femmes! STOP geweld tegen vrouwen!</h3>
+    
+                <p>03:00 - Sunday 26 Nov 2023</p>
+                <p>Organised by Campagne ROSA - NL</p>
+                <a href="https://www.facebook.com/events/7028303707203821/" target="_blank">View on Facebook</a>
+                
+                <br><br>
+
+                <div class="atcb" style="display: none;">
+                    {
+                        "name": "STOP violences faites aux femmes! STOP geweld tegen vrouwen!",
+                        "startDate": "2023-11-26",
+                        "startTime": "03:00",
+                        "endTime": "05:00",
+                        "location": "None",
+                        "description": "Organized by Campagne ROSA - NL. See https://www.facebook.com/events/7028303707203821/ for more info",
+                        "timeZone": "Europe/Brussels",
+                        "uid": "https-www-facebook-com-events-70283037072038212023-11-26t03-00-00-01-00",
+
+                        "label": "Add STOP... to your Calendar",
+                        "iCalFileName": "https-www-facebook-com-events-70283037072038212023-11-26t03-00-00-01-00",
+
+                        "options": ["Apple", "Google|Google Calendar", "Microsoft365", "Outlook.com", "Yahoo", "iCal|iCal (.ics file)"],
+                        "trigger": "click",
+                        "listStyle": "overlay",
+                        "lightMode": "system"
+                    }
+                </div>
+            </article>
+        </div>
+    </section>
+
+    <section>
+        <h2>Calendar feeds</h2>
+        <p>If you want to, you can also subscribe to an ical/.ics feed (sometimes called public url).<br>This will automatically add any events added here to your own calendar.</p>
+        <ul class="grid">
+            <li>Subscribe to all pages & communities listed here: <input type="url" value="https://antifantwerp.org/events//ical/all.ics" readonly></li>
+                <li>
+                    <label>Subscribe to Campagne ROSA - NL: </label>
+                    <input type="url" readonly value="https://antifantwerp.org/events//ical/campagne-rosa-nl.ics">
+                </li>
+        </ul>
+    </section>
+
+    <section id="pages">
+        <h2>Pages & communities</h2>
+        <p>Check out the pages and communities that organise these events!</p>
+        <ul>
+            <li><a href="https://www.facebook.com/CampagneROSANL/upcoming_hosted_events" target="_blank">https://www.facebook.com/CampagneROSANL/upcoming_hosted_events</a></li>
+        </ul>
+        <p>(Note: this page is not made by the owners of the pages/communities listed above)</p>
+    </section>
+</main>
+
+<footer class="grid">
+    <span>
+        Events collected & page generated using
+        <a href="https://github.com/Denperidge/facebook-event-aggregator">Facebook Event Aggregator</a>.
+    </span>
+    <span>CSS Stylesheet by <a href="https://picocss.com/" target="_blank">Pico.css</a></span>
+    <span>Calendar buttons by <a href="https://add-to-calendar-button.com/" target="_blank">ATCB</a></span>
+    <span id="last-update">Last update: <span id="2023-11-21T17:58:19.078221">17:58, 11/21/23</span></span>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.6.1/dist/jquery.min.js"></script>
+<!-- https://github.com/add2cal/add-to-calendar-button -->
+<script src="https://cdn.jsdelivr.net/npm/add-to-calendar-button@1" async defer></script>
+<script>
+$(document).ready(function() {
+    sourceFilters = $("nav a");
+    eventSelector = "#events article";
+    events = $(eventSelector);
+
+    sourceFilters.on("click", function(e) {
+        sourceFilter = $(e.target);
+        console.log(sourceFilter.attr("id"))
+
+        // If not pressed before,
+        if (sourceFilter.attr("role") != "button") {
+            sourceFilters.attr("role", "");  // Disable any other active buttons
+            sourceFilter.attr("role", "button");  // Activate the current
+
+            let selectedEvents = $(`${eventSelector}.${sourceFilter.attr("id")}`);
+
+            events.not(selectedEvents).hide(400);  // Hide all events
+            // Besides of the selected source
+            selectedEvents.show(400);
+        } else {
+            sourceFilter.attr("role", "");
+            events.show(400);
+        }
+    });
+
+    lastUpdateElement = $("#last-update span").first();
+    lastUpdate = Date.parse(lastUpdateElement.attr("id"));
+    // Thanks to https://stackoverflow.com/a/5511376
+    let yesterday = new Date();
+    yesterday.setDate(yesterday.getDate() - 1);
+
+    if (lastUpdate < yesterday) {
+        lastUpdateElement.css("color", "red");
+    }
+
+    
+});
+
+    </script>
+</body>
+</html>
+    
