@@ -1,7 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-CALSCALE:GEORGIAN
 BEGIN:VEVENT
 DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/289383690380769/ for more info
 DTSTART:20231222T090000Z
@@ -10,18 +9,18 @@ UID:https-www-facebook-com-events-2893836903807692023-12-22t10-00-00-01-00
 URL:https://www.facebook.com/events/289383690380769/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/261724053330019/ for more info
-DTSTART:20231124T090000Z
-SUMMARY:ACA Volkskeuken: Vol-au-vent
-UID:https-www-facebook-com-events-2617240533300192023-11-24t10-00-00-01-00
-URL:https://www.facebook.com/events/261724053330019/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/844163200715362/ for more info
 DTSTART:20240223T090000Z
 SUMMARY:ACA Volkskeuken
 UID:https-www-facebook-com-events-8441632007153622024-02-23t10-00-00-01-00
 URL:https://www.facebook.com/events/844163200715362/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/261724053330019/ for more info
+DTSTART:20231124T090000Z
+SUMMARY:ACA Volkskeuken: Vol-au-vent
+UID:https-www-facebook-com-events-2617240533300192023-11-24t10-00-00-01-00
+URL:https://www.facebook.com/events/261724053330019/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/887188556353661/ for more info
@@ -36,13 +35,6 @@ DTSTART:20240322T100000Z
 SUMMARY:ACA Volkskeuken
 UID:https-www-facebook-com-events-10384348404908122024-03-22t11-00-00-01-00
 URL:https://www.facebook.com/events/1038434840490812/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/7028303707203821/ for more info
-DTSTART:20231126T020000Z
-SUMMARY:STOP violences faites aux femmes! STOP geweld tegen vrouwen!
-UID:https-www-facebook-com-events-70283037072038212023-11-26t03-00-00-01-00
-URL:https://www.facebook.com/events/7028303707203821/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1048187889514240/ for more info
