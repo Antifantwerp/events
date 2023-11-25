@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/1016562682944827/ for more info
+LOCATION:Emagine Center
+DTSTART:20231130T093000Z
+SUMMARY:eerbetoon voor uitgestorven soorten
+UID:https-www-facebook-com-events-10165626829448272023-11-30t10-30-00-01-00
+URL:https://www.facebook.com/events/1016562682944827/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/2324129761128279/ for more info
+LOCATION:Mediaplein Antwerpen
+DTSTART:20231202T230000Z
+SUMMARY:Samen fietsen naar de Klimaatmars in Brussel!
+UID:https-www-facebook-com-events-23241297611282792023-12-03t00-00-00-01-00
+URL:https://www.facebook.com/events/2324129761128279/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/1391083091831446/ for more info
+LOCATION:Peperfabriek
+DTSTART:20231204T093000Z
+SUMMARY:Maak kennis met Extinction Rebellion!
+UID:https-www-facebook-com-events-13910830918314462023-12-04t10-30-00-01-00
+URL:https://www.facebook.com/events/1391083091831446/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/2382417508627147/ for more info
+LOCATION:To be announced
+DTSTART:20231125T194426Z
+SUMMARY:Code Rood-Rouge versus the aviation industry
+UID:https-www-facebook-com-events-23824175086271472023-11-25t19-44-26-987859
+URL:https://www.facebook.com/events/2382417508627147/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/1088196175887031/ for more info
+LOCATION:Peperfabriek
+DTSTART:20231207T100000Z
+SUMMARY:In nasleep van de Nederlandse verkiezingen
+UID:https-www-facebook-com-events-10881961758870312023-12-07t11-00-00-01-00
+URL:https://www.facebook.com/events/1088196175887031/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/663313962588549/ for more info
+LOCATION:Kortrijksepoorstraat 192 gent
+DTSTART:20231209T000000Z
+SUMMARY:Eerste XR Animal Dag in Vlaanderen
+UID:https-www-facebook-com-events-6633139625885492023-12-09t01-00-00-01-00
+URL:https://www.facebook.com/events/663313962588549/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/347668764262261/ for more info
+LOCATION:Brussel Noordstation
+DTSTART:20231203T030000Z
+SUMMARY:Klimaatmars 03/12/2023 Marche Climat
+UID:https-www-facebook-com-events-3476687642622612023-12-03t04-00-00-01-00
+URL:https://www.facebook.com/events/347668764262261/
+END:VEVENT
+END:VCALENDAR

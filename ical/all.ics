@@ -1,54 +1,166 @@
-BEGIN:VCALENDAR
-VERSION:2.0
-PRODID:ics.py - http://git.io/lLljaA
-CALSCALE:GEORGIAN
-BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/289383690380769/ for more info
-DTSTART:20231222T090000Z
-SUMMARY:ACA Volkskeuken
-UID:https-www-facebook-com-events-2893836903807692023-12-22t10-00-00-01-00
-URL:https://www.facebook.com/events/289383690380769/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/844163200715362/ for more info
-DTSTART:20240223T090000Z
-SUMMARY:ACA Volkskeuken
-UID:https-www-facebook-com-events-8441632007153622024-02-23t10-00-00-01-00
-URL:https://www.facebook.com/events/844163200715362/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/261724053330019/ for more info
-DTSTART:20231124T090000Z
-SUMMARY:ACA Volkskeuken: Vol-au-vent
-UID:https-www-facebook-com-events-2617240533300192023-11-24t10-00-00-01-00
-URL:https://www.facebook.com/events/261724053330019/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/887188556353661/ for more info
-DTSTART:20231204T090000Z
-SUMMARY:KLAPROZEN // Feministische dialoog - 1e editie: Vrijheid van Meningsuiting
-UID:https-www-facebook-com-events-8871885563536612023-12-04t10-00-00-01-00
-URL:https://www.facebook.com/events/887188556353661/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1038434840490812/ for more info
-DTSTART:20240322T100000Z
-SUMMARY:ACA Volkskeuken
-UID:https-www-facebook-com-events-10384348404908122024-03-22t11-00-00-01-00
-URL:https://www.facebook.com/events/1038434840490812/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/7028303707203821/ for more info
-DTSTART:20231126T020000Z
-SUMMARY:STOP violences faites aux femmes! STOP geweld tegen vrouwen!
-UID:https-www-facebook-com-events-70283037072038212023-11-26t03-00-00-01-00
-URL:https://www.facebook.com/events/7028303707203821/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1048187889514240/ for more info
-DTSTART:20240126T090000Z
-SUMMARY:ACA Volkskeuken
-UID:https-www-facebook-com-events-10481878895142402024-01-26t10-00-00-01-00
-URL:https://www.facebook.com/events/1048187889514240/
-END:VEVENT
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GEORGIAN
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/887188556353661/ for more info
+DTSTART:20231204T090000Z
+SUMMARY:KLAPROZEN // Feministische dialoog - 1e editie: Vrijheid van Meningsuiting
+UID:https-www-facebook-com-events-8871885563536612023-12-04t10-00-00-01-00
+URL:https://www.facebook.com/events/887188556353661/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/887188556353661/ for more info
+LOCATION:Peperfabriek
+DTSTART:20231204T090000Z
+SUMMARY:KLAPROZEN // Feministische dialoog - 1e editie: Vrijheid van Meningsuiting
+UID:https-www-facebook-com-events-8871885563536612023-12-04t10-00-00-01-00
+URL:https://www.facebook.com/events/887188556353661/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/7028303707203821/ for more info
+DTSTART:20231126T020000Z
+SUMMARY:STOP violences faites aux femmes! STOP geweld tegen vrouwen!
+UID:https-www-facebook-com-events-70283037072038212023-11-26t03-00-00-01-00
+URL:https://www.facebook.com/events/7028303707203821/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Campagne ROSA - NL. See https://www.facebook.com/events/7028303707203821/ for more info
+LOCATION:Carrefour de l'Europe\, 1000 Bruxelles\, Belgique
+DTSTART:20231126T020000Z
+SUMMARY:STOP violences faites aux femmes! STOP geweld tegen vrouwen!
+UID:https-www-facebook-com-events-70283037072038212023-11-26t03-00-00-01-00
+URL:https://www.facebook.com/events/7028303707203821/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1048187889514240/ for more info
+LOCATION:Peperfabriek
+DTSTART:20240126T090000Z
+SUMMARY:ACA Volkskeuken
+UID:https-www-facebook-com-events-10481878895142402024-01-26t10-00-00-01-00
+URL:https://www.facebook.com/events/1048187889514240/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1048187889514240/ for more info
+DTSTART:20240126T090000Z
+SUMMARY:ACA Volkskeuken
+UID:https-www-facebook-com-events-10481878895142402024-01-26t10-00-00-01-00
+URL:https://www.facebook.com/events/1048187889514240/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1088196175887031/ for more info
+LOCATION:Peperfabriek
+DTSTART:20231207T100000Z
+SUMMARY:In nasleep van de Nederlandse verkiezingen
+UID:https-www-facebook-com-events-10881961758870312023-12-07t11-00-00-01-00
+URL:https://www.facebook.com/events/1088196175887031/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/1088196175887031/ for more info
+LOCATION:Peperfabriek
+DTSTART:20231207T100000Z
+SUMMARY:In nasleep van de Nederlandse verkiezingen
+UID:https-www-facebook-com-events-10881961758870312023-12-07t11-00-00-01-00
+URL:https://www.facebook.com/events/1088196175887031/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/347668764262261/ for more info
+LOCATION:Brussel Noordstation
+DTSTART:20231203T030000Z
+SUMMARY:Klimaatmars 03/12/2023 Marche Climat
+UID:https-www-facebook-com-events-3476687642622612023-12-03t04-00-00-01-00
+URL:https://www.facebook.com/events/347668764262261/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/1391083091831446/ for more info
+LOCATION:Peperfabriek
+DTSTART:20231204T093000Z
+SUMMARY:Maak kennis met Extinction Rebellion!
+UID:https-www-facebook-com-events-13910830918314462023-12-04t10-30-00-01-00
+URL:https://www.facebook.com/events/1391083091831446/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/261724053330019/ for more info
+DTSTART:20231124T090000Z
+SUMMARY:ACA Volkskeuken: Vol-au-vent
+UID:https-www-facebook-com-events-2617240533300192023-11-24t10-00-00-01-00
+URL:https://www.facebook.com/events/261724053330019/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/844163200715362/ for more info
+DTSTART:20240223T090000Z
+SUMMARY:ACA Volkskeuken
+UID:https-www-facebook-com-events-8441632007153622024-02-23t10-00-00-01-00
+URL:https://www.facebook.com/events/844163200715362/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/844163200715362/ for more info
+LOCATION:Peperfabriek
+DTSTART:20240223T090000Z
+SUMMARY:ACA Volkskeuken
+UID:https-www-facebook-com-events-8441632007153622024-02-23t10-00-00-01-00
+URL:https://www.facebook.com/events/844163200715362/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1038434840490812/ for more info
+DTSTART:20240322T100000Z
+SUMMARY:ACA Volkskeuken
+UID:https-www-facebook-com-events-10384348404908122024-03-22t11-00-00-01-00
+URL:https://www.facebook.com/events/1038434840490812/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/1038434840490812/ for more info
+LOCATION:Peperfabriek
+DTSTART:20240322T100000Z
+SUMMARY:ACA Volkskeuken
+UID:https-www-facebook-com-events-10384348404908122024-03-22t11-00-00-01-00
+URL:https://www.facebook.com/events/1038434840490812/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/663313962588549/ for more info
+LOCATION:Kortrijksepoorstraat 192 gent
+DTSTART:20231209T000000Z
+SUMMARY:Eerste XR Animal Dag in Vlaanderen
+UID:https-www-facebook-com-events-6633139625885492023-12-09t01-00-00-01-00
+URL:https://www.facebook.com/events/663313962588549/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/289383690380769/ for more info
+DTSTART:20231222T090000Z
+SUMMARY:ACA Volkskeuken
+UID:https-www-facebook-com-events-2893836903807692023-12-22t10-00-00-01-00
+URL:https://www.facebook.com/events/289383690380769/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Anarchistisch Collectief Antwerpen. See https://www.facebook.com/events/289383690380769/ for more info
+LOCATION:Peperfabriek
+DTSTART:20231222T090000Z
+SUMMARY:ACA Volkskeuken
+UID:https-www-facebook-com-events-2893836903807692023-12-22t10-00-00-01-00
+URL:https://www.facebook.com/events/289383690380769/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/1016562682944827/ for more info
+LOCATION:Emagine Center
+DTSTART:20231130T093000Z
+SUMMARY:eerbetoon voor uitgestorven soorten
+UID:https-www-facebook-com-events-10165626829448272023-11-30t10-30-00-01-00
+URL:https://www.facebook.com/events/1016562682944827/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/2324129761128279/ for more info
+LOCATION:Mediaplein Antwerpen
+DTSTART:20231202T230000Z
+SUMMARY:Samen fietsen naar de Klimaatmars in Brussel!
+UID:https-www-facebook-com-events-23241297611282792023-12-03t00-00-00-01-00
+URL:https://www.facebook.com/events/2324129761128279/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Organized by Extinction Rebellion Antwerpen. See https://www.facebook.com/events/2382417508627147/ for more info
+LOCATION:To be announced
+DTSTART:20231125T194426Z
+SUMMARY:Code Rood-Rouge versus the aviation industry
+UID:https-www-facebook-com-events-23824175086271472023-11-25t19-44-26-987859
+URL:https://www.facebook.com/events/2382417508627147/
+END:VEVENT
 END:VCALENDAR
